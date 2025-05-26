@@ -11,6 +11,12 @@
   },
   "dependencies": {
     "express": "^5.1.0",
+    "mongoose": "^8.15.0",
     "zod": "^3.25.28"
+    
+    
+    
   }
+
+  
 }
